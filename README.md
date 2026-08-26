@@ -36,7 +36,7 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=csharp,js,python,c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,python)](https://skillicons.dev)
 
 </p>
 
@@ -70,7 +70,7 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,sequelize)](https://skillicons.dev)
 
 </p>
 
